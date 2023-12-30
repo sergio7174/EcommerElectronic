@@ -66,7 +66,6 @@ $ npm start (to start the server)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
 <br/>
 ##  Screenshots:
-<br/> 
 ## Projects Images:
 <br/>
 <img src="./FRONTEND/src/assets/systempictures/searchPage.jpg" alt="project screenshot02" />
