@@ -1,8 +1,8 @@
 <h1 align ="center" > 🏆 EcommerElectronic  </h1>
 <h5  align ="center"> 
 Fullstack open source Ecommerce application made with MongoDB, Express, React & Nodejs (MERN) </h5>
-<br/>
-<br/>
+<br>
+<br>
 
   * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
@@ -13,7 +13,7 @@ Fullstack open source Ecommerce application made with MongoDB, Express, React & 
       - [API](#api)
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
-  * <br/>
+  * <br>
   * ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
@@ -64,10 +64,10 @@ $ npm start (to start the server)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
-<br/>
+<br>
 ##  Screenshots:
 ## Projects Images:
-<br/>
+<br>
 <img src="./FRONTEND/src/assets/systempictures/searchPage.jpg" alt="project screenshot02" />
 <img src="./FRONTEND/src/assets/systempictures/Userprofile.jpg" alt="project screenshot03" />
 <img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="screenshot del proyecto" />
