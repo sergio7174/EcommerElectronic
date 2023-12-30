@@ -15,7 +15,7 @@
 
 ## Projects Images:
 
-<img src="./src/assets/systempictures/home.jpg" alt="project screenshot01" />
+<img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="project screenshot01" />
 
 
 
