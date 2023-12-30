@@ -117,4 +117,11 @@ This project was created using the following technologies.
 ####  Database 
 
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+<br>
+## Author
+- Portfolio: 
+- Github: 
+- Sponsor: 
+- Linkedin:
+- Email: [sergiogmoncada@yahoo.com](mailto:sergiogmoncada@yahoo.com)
 
