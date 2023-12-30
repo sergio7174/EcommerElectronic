@@ -71,3 +71,15 @@ $ npm start (to start the server)
 <img src="./FRONTEND/src/assets/systempictures/searchPage.jpg" alt="project screenshot02" />
 <img src="./FRONTEND/src/assets/systempictures/Userprofile.jpg" alt="project screenshot03" />
 <img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="screenshot del proyecto" />
+<br>
+##  Key Features
+
+- User registration and login
+- Authentication using JWT Tokens
+- Add, edit, delete Products
+ - Leave a Reviews
+- Delete Reviews
+- Password Update
+- Search Live
+- 404 Page and many more
+- Responsive Design
