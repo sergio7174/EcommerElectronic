@@ -1,4 +1,4 @@
-<H1 align ="center" > 🏆 EcommerElectronic  </h1>
+<h1 align ="center" > 🏆 EcommerElectronic  </h1>
 <h5  align ="center"> 
 Fullstack open source Ecommerce application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
