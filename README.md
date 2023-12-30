@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/Redux%20Toolkit-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-lightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/redux%20persist-aqua?style=for-the-badge)
 
 
 
