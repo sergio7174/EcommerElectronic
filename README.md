@@ -15,7 +15,6 @@
 
 ## Projects Images:
 
-<img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="project screenshot01" />
 <img src="./FRONTEND/src/assets/systempictures/searchPage.jpg" alt="project screenshot02" />
 <img src="./FRONTEND/src/assets/systempictures/Userprofile.jpg" alt="project screenshot03" />
 
