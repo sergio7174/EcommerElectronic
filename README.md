@@ -64,6 +64,7 @@ $ npm start (to start the server)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
+
 <br>
 ##  Screenshots:
 ## Projects Images:
@@ -71,8 +72,9 @@ $ npm start (to start the server)
 <img src="./FRONTEND/src/assets/systempictures/searchPage.jpg" alt="project screenshot02" />
 <img src="./FRONTEND/src/assets/systempictures/Userprofile.jpg" alt="project screenshot03" />
 <img src="./FRONTEND/src/assets/systempictures/home.jpg" alt="screenshot del proyecto" />
-<br/>
-##  Key Features
+<br>
+```
+##  Key Features:
 
 - User registration and login
 - Authentication using JWT Tokens
@@ -83,3 +85,4 @@ $ npm start (to start the server)
 - Search Live
 - 404 Page and many more
 - Responsive Design
+```
