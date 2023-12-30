@@ -1,6 +1,5 @@
 # 🏆 ePlay ecommerce
-[[![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/ecommerce-react?style=for-the-badge)]
-)
+![Static Badge](https://img.shields.io/badge/build-3.15%20mb%20-brightgreen?style=for-the-badge&label=GitHub%20repo%20size&color=brown)
 ![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/ecommerce-react?style=for-the-badge)
 ![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
