@@ -50,7 +50,7 @@ STRIPE_SECRET_KEY:''
 
 $ npm install (to install server-side dependencies)
 $ npm start (to start the server)
-
+```
 ![Static Badge](https://img.shields.io/badge/build-3.15%20mb%20-brightgreen?style=for-the-badge&label=GitHub%20repo%20size&color=brown)
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
