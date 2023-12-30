@@ -9,6 +9,12 @@
 ![Static Badge](https://img.shields.io/badge/axios-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/React%20Bootstrap-lightblue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/redux%20persist-aqua?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
+
+
+
 
 
 
