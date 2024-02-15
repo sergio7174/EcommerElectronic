@@ -64,6 +64,7 @@ $ npm start (to start the server)
 ![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Nodejs%20-aqua?style=for-the-badge)
 
 <br>
 ##  Screenshots:
