@@ -82,7 +82,7 @@ $ npm start (to start the server)
  - Leave a Reviews
 - Delete Reviews
 - Password Update
-- Search Live
+- Live Search 
 - 404 Page and many more
 - Responsive Design
 <br/>
